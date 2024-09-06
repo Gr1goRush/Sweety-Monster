@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 388635b092db1c34390e08e0f5860607, type: 3}
+    - {fileID: 2800000, guid: ac775bac9375afe49a1106e85bb1df42, type: 3}
+    - {fileID: 2800000, guid: 8a5eb1c8633c30848876ddd06b550d74, type: 3}
+    - {fileID: 2800000, guid: 33678c7d0cb788d4b99842c5702e10e1, type: 3}
+    - {fileID: 2800000, guid: 97ecb1abcb1b3384a82cdff2857a0d01, type: 3}
+    - {fileID: 2800000, guid: dc15eaa6219f9bf44a78f50fc545e14d, type: 3}
+    - {fileID: 2800000, guid: 5534699607070c44baa4fdee095e971c, type: 3}
+    - {fileID: 2800000, guid: 684fc740cde390d4e87a9201188306f6, type: 3}
+    - {fileID: 2800000, guid: 0ccff4fa761029840ab59dfed7bd192b, type: 3}
+    - {fileID: 2800000, guid: c35f1e9cec74cf54cb1ca37b1afac97a, type: 3}
+    - {fileID: 2800000, guid: 373f3d23508b8ef418c81a5cdbb64967, type: 3}
+    - {fileID: 2800000, guid: f25595aaf2cab644c9a1e0e17e9fc378, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 684fc740cde390d4e87a9201188306f6, type: 3}
+  - {fileID: 21300000, guid: 388635b092db1c34390e08e0f5860607, type: 3}
+  - {fileID: 21300000, guid: 373f3d23508b8ef418c81a5cdbb64967, type: 3}
+  - {fileID: 21300000, guid: 5534699607070c44baa4fdee095e971c, type: 3}
+  - {fileID: 21300000, guid: dc15eaa6219f9bf44a78f50fc545e14d, type: 3}
+  - {fileID: 21300000, guid: 8a5eb1c8633c30848876ddd06b550d74, type: 3}
+  - {fileID: 21300000, guid: f25595aaf2cab644c9a1e0e17e9fc378, type: 3}
+  - {fileID: 21300000, guid: 0ccff4fa761029840ab59dfed7bd192b, type: 3}
+  - {fileID: 21300000, guid: 97ecb1abcb1b3384a82cdff2857a0d01, type: 3}
+  - {fileID: 21300000, guid: c35f1e9cec74cf54cb1ca37b1afac97a, type: 3}
+  - {fileID: 21300000, guid: ac775bac9375afe49a1106e85bb1df42, type: 3}
+  - {fileID: 21300000, guid: 33678c7d0cb788d4b99842c5702e10e1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Locked
+  - ShopFrame
+  - Frame 1171276599-1
+  - Monster (1)
+  - Monster (2) 1
+  - Selected
+  - Property 1=Variant3
+  - Frame 1171276599
+  - Monster
+  - Frame 1171276599-2
+  - Backgrounds
+  - Select
+  m_RenderDataMap: {}
+  m_Tag: ShopAtlas
+  m_IsVariant: 0

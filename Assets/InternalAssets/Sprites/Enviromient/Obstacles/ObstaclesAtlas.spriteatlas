@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ObstaclesAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ed876740cee72234cba52a1b28206d08, type: 3}
+    - {fileID: 2800000, guid: 933aa27f3be872244ade712b6f65eee8, type: 3}
+    - {fileID: 2800000, guid: c24045863adcf7947a053d339c7299d6, type: 3}
+    - {fileID: 2800000, guid: 0e80f9bbd051e8c4fbf7417f0e65bb67, type: 3}
+    - {fileID: 2800000, guid: 1a660b8b316962d49aa7d98d3a07a2c6, type: 3}
+    - {fileID: 2800000, guid: ff85c97e7ccc5a044b76c4a76f669107, type: 3}
+    - {fileID: 2800000, guid: fb7d0ab6a8d574e42bebe19d1f86fc3a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ed876740cee72234cba52a1b28206d08, type: 3}
+  - {fileID: 21300000, guid: c24045863adcf7947a053d339c7299d6, type: 3}
+  - {fileID: 21300000, guid: fb7d0ab6a8d574e42bebe19d1f86fc3a, type: 3}
+  - {fileID: 21300000, guid: 1a660b8b316962d49aa7d98d3a07a2c6, type: 3}
+  - {fileID: 21300000, guid: 0e80f9bbd051e8c4fbf7417f0e65bb67, type: 3}
+  - {fileID: 21300000, guid: ff85c97e7ccc5a044b76c4a76f669107, type: 3}
+  - {fileID: 21300000, guid: 933aa27f3be872244ade712b6f65eee8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Property 1=Default
+  - Property 1=Variant3
+  - Bonus
+  - Property 1=Variant5
+  - Property 1=Variant4
+  - Property 1=Variant6
+  - Property 1=Variant2
+  m_RenderDataMap: {}
+  m_Tag: ObstaclesAtlas
+  m_IsVariant: 0
